@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    color: #444;
+    background-image: url("https://i.pinimg.com/originals/f8/e6/60/f8e6609b9459e80f81900c8d33d280dc.png");
+    opacity:90%
+}
+
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 30px;
+    box-sizing: border-box;
+}
+
+h1 {
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+p {
+    margin-bottom: 20px;
+}
+
+ul {
+    margin-bottom: 20px;
+}
+
+li {
+    margin-bottom: 10px;
+}
